@@ -5,11 +5,11 @@
  * PLEASE BE SURE TO UPDATE THEM ALL! Thank you!
  **/ 
 
-export const siteTitle = 'My Awesome Blog'
-export const siteDescription = 'Built with the SvelteKit Static Blog Starter'
-export const siteURL = 'example.com'
-export const siteLink = 'https://github.com/josh-collinsworth/sveltekit-blog-starter'
-export const siteAuthor = 'Josh Collinsworth - find and change this text in src/lib/config.js'
+export const siteTitle = 'Sustainable Scot'
+export const siteDescription = 'Exploring Sustainability in Scotland and the World'
+export const siteURL = 'sustainablescot.com'
+export const siteLink = 'https://sustainablescot.com'
+export const siteAuthor = 'Sustainable Scot'
 
 // Controls how many posts are shown per page on the main blog index pages
 export const postsPerPage = 10
