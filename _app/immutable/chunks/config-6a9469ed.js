@@ -1,0 +1,1 @@
+const t="Sustainable Scot",o="Exploring Sustainability in Scotland and the World",s="Sustainable Scot",a=10,e=[{title:"Blog",route:"/blog"},{title:"About",route:"/about"},{title:"Contact",route:"/contact"}];export{s as a,o as b,e as n,a as p,t as s};
