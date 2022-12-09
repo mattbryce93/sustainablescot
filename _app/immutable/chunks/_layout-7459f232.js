@@ -1,0 +1,1 @@
+import{e as t}from"./index-f0bc76d6.js";const o=!0,a=!0,c=async({url:r,fetch:n})=>{try{return{path:r.pathname}}catch(e){throw t(500,e)}},l=Object.freeze(Object.defineProperty({__proto__:null,prerender:o,csr:a,load:c},Symbol.toStringTag,{value:"Module"}));export{l as _,a as c,c as l,o as p};
