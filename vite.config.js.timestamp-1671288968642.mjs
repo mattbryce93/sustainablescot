@@ -1,0 +1,15 @@
+// vite.config.js
+import { sveltekit } from "file:///home/brycem/personal/sustainablescot/node_modules/@sveltejs/kit/src/exports/vite/index.js";
+var config = {
+  plugins: [sveltekit()],
+  server: {
+    fs: {
+      allow: ["."]
+    }
+  }
+};
+var vite_config_default = config;
+export {
+  vite_config_default as default
+};
+//# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAic291cmNlcyI6IFsidml0ZS5jb25maWcuanMiXSwKICAic291cmNlc0NvbnRlbnQiOiBbImNvbnN0IF9fdml0ZV9pbmplY3RlZF9vcmlnaW5hbF9kaXJuYW1lID0gXCIvaG9tZS9icnljZW0vcGVyc29uYWwvc3VzdGFpbmFibGVzY290XCI7Y29uc3QgX192aXRlX2luamVjdGVkX29yaWdpbmFsX2ZpbGVuYW1lID0gXCIvaG9tZS9icnljZW0vcGVyc29uYWwvc3VzdGFpbmFibGVzY290L3ZpdGUuY29uZmlnLmpzXCI7Y29uc3QgX192aXRlX2luamVjdGVkX29yaWdpbmFsX2ltcG9ydF9tZXRhX3VybCA9IFwiZmlsZTovLy9ob21lL2JyeWNlbS9wZXJzb25hbC9zdXN0YWluYWJsZXNjb3Qvdml0ZS5jb25maWcuanNcIjtpbXBvcnQgeyBzdmVsdGVraXQgfSBmcm9tICdAc3ZlbHRlanMva2l0L3ZpdGUnXG5cbi8qKiBAdHlwZSB7aW1wb3J0KCd2aXRlJykuVXNlckNvbmZpZ30gKi9cbmNvbnN0IGNvbmZpZyA9IHtcblx0cGx1Z2luczogW3N2ZWx0ZWtpdCgpXSxcblx0c2VydmVyOiB7XG5cdFx0ZnM6IHtcblx0XHRcdGFsbG93OiBbJy4nXVxuXHRcdH1cblx0fVxufTtcblxuZXhwb3J0IGRlZmF1bHQgY29uZmlnXG4iXSwKICAibWFwcGluZ3MiOiAiO0FBQWlTLFNBQVMsaUJBQWlCO0FBRzNULElBQU0sU0FBUztBQUFBLEVBQ2QsU0FBUyxDQUFDLFVBQVUsQ0FBQztBQUFBLEVBQ3JCLFFBQVE7QUFBQSxJQUNQLElBQUk7QUFBQSxNQUNILE9BQU8sQ0FBQyxHQUFHO0FBQUEsSUFDWjtBQUFBLEVBQ0Q7QUFDRDtBQUVBLElBQU8sc0JBQVE7IiwKICAibmFtZXMiOiBbXQp9Cg==
