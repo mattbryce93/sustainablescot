@@ -6,23 +6,11 @@
 <link>https://sustainablescot.com</link>
 <atom:link href="https://sustainablescot.com/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
-<guid isPermaLink="true">https://sustainablescot.com/blog/mdsvex-component-example</guid>
-<title>A Markdown post with a Svelte component</title>
-<link>https://sustainablescot.com/blog/mdsvex-component-example</link>
-<description>This post demonstrates how to include a Svelte component in a Markdown post.</description>
-<pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://sustainablescot.com/blog/syntax-highlighting-example</guid>
-<title>Syntax highlighting with mdsvex</title>
-<link>https://sustainablescot.com/blog/syntax-highlighting-example</link>
-<description>This post shows you how syntax highlighting works here.</description>
-<pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-</item><item>
-<guid isPermaLink="true">https://sustainablescot.com/blog/heading-links-example</guid>
-<title>Automatic heading links in mdsvex</title>
-<link>https://sustainablescot.com/blog/heading-links-example</link>
-<description>Check out how heading links work with this starter in this post.</description>
-<pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+<guid isPermaLink="true">https://sustainablescot.com/blog/incremental-design</guid>
+<title>Incremental Urban Design</title>
+<link>https://sustainablescot.com/blog/incremental-design</link>
+<description>Covering the basics of Incremental Design and its benefits.</description>
+<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
